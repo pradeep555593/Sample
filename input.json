@@ -1,0 +1,18 @@
+{
+  "id": 9199424981609314000,
+  "category": {
+    "id": 0,
+    "name": "British Bull dog"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "new imagessfs"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
